@@ -1,4 +1,4 @@
-# titanic was avaliable in the Datacamp workspace
+# titanic data was avaliable in the Datacamp workspace
 #the goal of this exercise was to employ ggplot on the titanic data set to investigate whether I might have 
 #survived the crash of the Titanic
 
