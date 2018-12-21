@@ -1,4 +1,4 @@
-#Using data from the 2009 CHIS adult-response dataset, I want to examine which groups are under/over represented 
+#Using data from the 2009 CHIS adult-response dataset, I examine which groups are under/over represented 
 #within the data set, by creating mosaic plots
 
 # Load all packages
